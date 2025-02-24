@@ -1,4 +1,5 @@
-# BiKA: A Prototype of *Bi*narized *K*olmogorov-*A*rnold Networks
+# BiKA: A Prototype of *Bi*narized *K*olmogorov-*A*rnold Networks [![DOI](https://zenodo.org/badge/833847910.svg)](https://doi.org/10.5281/zenodo.14915114)
+
 
 **Yuhao Liu$<sup>1,3</sup>, Salim Ullah<sup>2</sup>, Akash Kumar<sup>2,3</sup>**
 
