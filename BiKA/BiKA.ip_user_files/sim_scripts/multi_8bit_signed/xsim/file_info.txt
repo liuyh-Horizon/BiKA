@@ -1,1 +1,0 @@
-multi_8bit_signed.vhd,vhdl,xil_defaultlib,../../../../BiKA.gen/sources_1/ip/multi_8bit_signed/sim/multi_8bit_signed.vhd,
