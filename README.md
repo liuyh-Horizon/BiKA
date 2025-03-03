@@ -1,7 +1,7 @@
 # BiKA: A Prototype of *Bi*narized *K*olmogorov-*A*rnold Networks [![DOI](https://zenodo.org/badge/833847910.svg)](https://doi.org/10.5281/zenodo.14915114)
 
 
-**Yuhao Liu$<sup>1,3</sup>, Salim Ullah<sup>2</sup>, Akash Kumar<sup>2,3</sup>**
+**Yuhao Liu<sup>1,3</sup>, Salim Ullah<sup>2</sup>, Akash Kumar<sup>2,3</sup>**
 
 <sup>1</sup>Dresden University of Technology, Germany; <sup>2</sup>Ruhr University Bochum, Germany; <sip>3</sup>Center for Scalable Data Analytics and Artificial Intelligence (ScaDS.AI Dresden/Leipzig), Germany
 
