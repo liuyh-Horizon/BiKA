@@ -1,9 +1,0 @@
-#include <torch/extension.h>
-
-torch::Tensor bika_conv2d_forward(torch::Tensor input, torch::Tensor weight, torch::Tensor bias);
-std::vector<torch::Tensor> bika_conv2d_backward(torch::Tensor grad_output, torch::Tensor input, torch::Tensor weight, torch::Tensor bias);
-
-PYBIND11_MODULE(TORCH_EXTENSION_NAME, m) {
-    m.def("bika_conv2d_forward", &bika_conv2d_forward, "BiKA Conv2D forward (CUDA)");
-    m.def("bika_conv2d_backward", &bika_conv2d_backward, "BiKA Conv2D backward (CUDA)");
-}
