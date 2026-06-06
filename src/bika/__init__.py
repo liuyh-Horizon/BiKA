@@ -19,9 +19,11 @@ except ImportError as e:
 from .functional import bika_linear, bika_conv2d
 from .BiKA_Linear import BiKA_Linear
 from .BiKA_Conv2d import BiKA_Conv2d
+from .BiKA_RNN import BiKA_RNN, BiKA_RNNLayer
+from .BiKA_MRU import BiKA_MRU, BiKA_MRULayer
 
 
-__version__ = "0.1.4"
+__version__ = "0.1.6"
 
 
 __all__ = [
@@ -29,4 +31,8 @@ __all__ = [
     "bika_conv2d",
     "BiKA_Linear",
     "BiKA_Conv2d",
+    "BiKA_RNN",
+    "BiKA_RNNLayer",
+    "BiKA_MRU",
+    "BiKA_MRULayer",
 ]

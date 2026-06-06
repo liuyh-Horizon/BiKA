@@ -4,7 +4,7 @@ from torch.utils.cpp_extension import BuildExtension, CUDAExtension
 
 setup(
     name="bika",
-    version="0.1.4",
+    version="0.1.6",
     description="BiKA layers: Binarized KAN with CUDA kernels",
 
     package_dir={"": "src"},
