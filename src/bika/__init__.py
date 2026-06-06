@@ -29,6 +29,4 @@ __all__ = [
     "bika_conv2d",
     "BiKA_Linear",
     "BiKA_Conv2d",
-    "BiKA_RNN",
-    "BiKA_RNNLayer",
 ]
