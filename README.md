@@ -28,7 +28,7 @@ The repository also includes clean experiment examples for MNIST, FashionMNIST, 
 ## News
 
 - BiKA has been accepted by **ISQED 2026**.
-- The paper is currently available on arXiv.
+- The paper is currently available on [arXiv](https://arxiv.org/abs/2602.23455) and [IEEE Xplore](https://ieeexplore.ieee.org/document/11534780).
 - This repository is under active development. APIs, experiment scripts, and CUDA kernels may still be updated.
 
 ---
@@ -251,18 +251,17 @@ If automatic download is disabled, please manually place the datasets according 
 If you find this repository useful, please cite our paper:
 
 ```bibtex
-@misc{liu2026bika,
-      title={BiKA: Kolmogorov-Arnold-Network-inspired Ultra Lightweight Neural Network Hardware Accelerator}, 
-      author={Yuhao Liu and Salim Ullah and Akash Kumar},
-      year={2026},
-      eprint={2602.23455},
-      archivePrefix={arXiv},
-      primaryClass={cs.AR},
-      url={https://arxiv.org/abs/2602.23455}, 
-}
+@INPROCEEDINGS{11534780,
+  author={Liu, Yuhao and Ullah, Salim and Kumar, Akash},
+  booktitle={2026 27th International Symposium on Quality Electronic Design (ISQED)}, 
+  title={BiKA: Kolmogorov-Arnold-Network-inspired Ultra Lightweight Neural Network Hardware Accelerator}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-9},
+  keywords={Modeling;Design methodology;Hardware;Training;Accuracy;Printing;Arrays;Equations;Field programmable gate arrays;Quantization (signal)},
+  doi={10.1109/ISQED69900.2026.11534780}}
 ```
-
-The conference citation will be updated after the ISQED 2026 proceedings are available online.
 
 ---
 
