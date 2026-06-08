@@ -1,3 +1,12 @@
-
 LFC_BiKA.ipynb
 SFC_BiKA.ipynb
+LFC_1bit.ipynb
+LFC_2bit.ipynb
+LFC_4bit.ipynb
+LFC_8bit.ipynb
+LFC_float.ipynb
+SFC_1bit.ipynb
+SFC_2bit.ipynb
+SFC_4bit.ipynb
+SFC_8bit.ipynb
+SFC_float.ipynb

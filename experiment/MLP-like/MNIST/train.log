@@ -1,13 +1,48 @@
 nohup: ignoring input
-2026-05-17 04:22:16 - Starting: LFC_BiKA.ipynb
-2026-05-17 07:10:06 - Finished: LFC_BiKA.ipynb ✅
-2026-05-17 07:10:06 - Starting: SFC_BiKA.ipynb
-2026-05-17 07:48:10 - Finished: SFC_BiKA.ipynb ✅
-2026-05-17 07:48:10 - All notebooks executed successfully.
-ipynb ✅
-2026-05-17 07:10:06 - Starting: SFC_BiKA.ipynb
-[NbConvertApp] Converting notebook .//SFC_BiKA.ipynb to notebook
-[NbConvertApp] Writing 3254823 bytes to SFC_BiKA.ipynb
-2026-05-17 07:48:10 - Finished: SFC_BiKA.ipynb ✅
-2026-05-17 07:48:10 - All notebooks executed successfully.
-2026-05-17 07:48:10 - Script interrupted or crashed.
+2026-06-06 23:35:51 - Starting: LFC_1bit.ipynb
+2026-06-07 03:54:53 - Finished: LFC_1bit.ipynb ✅
+2026-06-07 03:54:53 - Starting: LFC_2bit.ipynb
+2026-06-07 08:55:07 - Finished: LFC_2bit.ipynb ✅
+2026-06-07 08:55:07 - Starting: LFC_4bit.ipynb
+2026-06-07 13:40:50 - Finished: LFC_4bit.ipynb ✅
+2026-06-07 13:40:50 - Starting: LFC_8bit.ipynb
+2026-06-07 18:38:52 - Finished: LFC_8bit.ipynb ✅
+2026-06-07 18:38:52 - Skipping (already completed): LFC_BiKA.ipynb
+2026-06-07 18:38:52 - Starting: LFC_float.ipynb
+2026-06-07 20:03:02 - Finished: LFC_float.ipynb ✅
+2026-06-07 20:03:02 - Starting: SFC_1bit.ipynb
+2026-06-07 20:03:42 - Finished: SFC_1bit.ipynb ✅
+2026-06-07 20:03:42 - Starting: SFC_2bit.ipynb
+2026-06-07 20:04:23 - Finished: SFC_2bit.ipynb ✅
+2026-06-07 20:04:23 - Starting: SFC_4bit.ipynb
+2026-06-07 20:05:06 - Finished: SFC_4bit.ipynb ✅
+2026-06-07 20:05:06 - Starting: SFC_8bit.ipynb
+2026-06-07 20:05:48 - Finished: SFC_8bit.ipynb ✅
+2026-06-07 20:05:48 - Skipping (already completed): SFC_BiKA.ipynb
+2026-06-07 20:05:48 - Starting: SFC_float.ipynb
+2026-06-07 20:06:29 - Finished: SFC_float.ipynb ✅
+2026-06-07 20:06:29 - All notebooks executed successfully.
+ Finished: LFC_float.ipynb ✅
+2026-06-07 20:03:02 - Starting: SFC_1bit.ipynb
+[NbConvertApp] Converting notebook .//SFC_1bit.ipynb to notebook
+[NbConvertApp] Writing 672057 bytes to SFC_1bit.ipynb
+2026-06-07 20:03:42 - Finished: SFC_1bit.ipynb ✅
+2026-06-07 20:03:42 - Starting: SFC_2bit.ipynb
+[NbConvertApp] Converting notebook .//SFC_2bit.ipynb to notebook
+[NbConvertApp] Writing 829479 bytes to SFC_2bit.ipynb
+2026-06-07 20:04:23 - Finished: SFC_2bit.ipynb ✅
+2026-06-07 20:04:23 - Starting: SFC_4bit.ipynb
+[NbConvertApp] Converting notebook .//SFC_4bit.ipynb to notebook
+[NbConvertApp] Writing 823120 bytes to SFC_4bit.ipynb
+2026-06-07 20:05:06 - Finished: SFC_4bit.ipynb ✅
+2026-06-07 20:05:06 - Starting: SFC_8bit.ipynb
+[NbConvertApp] Converting notebook .//SFC_8bit.ipynb to notebook
+[NbConvertApp] Writing 805378 bytes to SFC_8bit.ipynb
+2026-06-07 20:05:48 - Finished: SFC_8bit.ipynb ✅
+2026-06-07 20:05:48 - Skipping (already completed): SFC_BiKA.ipynb
+2026-06-07 20:05:48 - Starting: SFC_float.ipynb
+[NbConvertApp] Converting notebook .//SFC_float.ipynb to notebook
+[NbConvertApp] Writing 806614 bytes to SFC_float.ipynb
+2026-06-07 20:06:29 - Finished: SFC_float.ipynb ✅
+2026-06-07 20:06:29 - All notebooks executed successfully.
+2026-06-07 20:06:29 - Script interrupted or crashed.
