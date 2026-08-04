@@ -1,0 +1,30 @@
+2026-06-19 16:08:02 - All notebooks already completed. Restarting training from scratch.
+raining from scratch.
+2026-06-19 16:08:02 - Starting: TCV_1bit.ipynb
+2026-06-19 16:08:37 - Finished: TCV_1bit.ipynb ✅
+2026-06-19 16:08:37 - Starting: TCV_2bit.ipynb
+2026-06-19 16:09:12 - Finished: TCV_2bit.ipynb ✅
+2026-06-19 16:09:12 - Starting: TCV_4bit.ipynb
+2026-06-19 16:09:46 - Finished: TCV_4bit.ipynb ✅
+2026-06-19 16:09:46 - Starting: TCV_8bit.ipynb
+2026-06-19 16:10:21 - Finished: TCV_8bit.ipynb ✅
+2026-06-19 16:10:21 - Starting: TCV_BiKA.ipynb
+2026-06-22 12:02:24 - Finished: TCV_BiKA.ipynb ✅
+2026-06-22 12:02:24 - Starting: TCV_float.ipynb
+2026-06-22 12:02:54 - Finished: TCV_float.ipynb ✅
+2026-06-22 12:02:54 - All notebooks executed successfully.
+26-06-19 16:09:46 - Finished: TCV_4bit.ipynb ✅
+2026-06-19 16:09:46 - Starting: TCV_8bit.ipynb
+[NbConvertApp] Converting notebook .//TCV_8bit.ipynb to notebook
+[NbConvertApp] Writing 799815 bytes to TCV_8bit.ipynb
+2026-06-19 16:10:21 - Finished: TCV_8bit.ipynb ✅
+2026-06-19 16:10:21 - Starting: TCV_BiKA.ipynb
+[NbConvertApp] Converting notebook .//TCV_BiKA.ipynb to notebook
+[NbConvertApp] Writing 2950761 bytes to TCV_BiKA.ipynb
+2026-06-22 12:02:24 - Finished: TCV_BiKA.ipynb ✅
+2026-06-22 12:02:24 - Starting: TCV_float.ipynb
+[NbConvertApp] Converting notebook .//TCV_float.ipynb to notebook
+[NbConvertApp] Writing 796746 bytes to TCV_float.ipynb
+2026-06-22 12:02:54 - Finished: TCV_float.ipynb ✅
+2026-06-22 12:02:54 - All notebooks executed successfully.
+2026-06-22 12:02:54 - Script interrupted or crashed.

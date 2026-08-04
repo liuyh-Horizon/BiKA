@@ -1,0 +1,17 @@
+nohup: ignoring input
+2026-06-23 20:41:46 - Skipping (already completed): CNV_1bit.ipynb
+2026-06-23 20:41:46 - Skipping (already completed): CNV_2bit.ipynb
+2026-06-23 20:41:46 - Skipping (already completed): CNV_4bit.ipynb
+2026-06-23 20:41:46 - Skipping (already completed): CNV_8bit.ipynb
+2026-06-23 20:41:46 - Starting: CNV_BiKA.ipynb
+2026-07-06 20:30:21 - Finished: CNV_BiKA.ipynb ✅
+2026-07-06 20:30:21 - Starting: CNV_float.ipynb
+2026-07-06 20:31:20 - Finished: CNV_float.ipynb ✅
+2026-07-06 20:31:20 - All notebooks executed successfully.
+Finished: CNV_BiKA.ipynb ✅
+2026-07-06 20:30:21 - Starting: CNV_float.ipynb
+[NbConvertApp] Converting notebook .//CNV_float.ipynb to notebook
+[NbConvertApp] Writing 802380 bytes to CNV_float.ipynb
+2026-07-06 20:31:20 - Finished: CNV_float.ipynb ✅
+2026-07-06 20:31:20 - All notebooks executed successfully.
+2026-07-06 20:31:20 - Script interrupted or crashed.
